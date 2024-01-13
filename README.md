@@ -29,11 +29,11 @@ The data was properly cleaned and loaded as the following fields:
 
 We were able to determine the following:
 
-  a.	The number of times the championship hosted by host country on a map.
+  a.	The number of times the championship was hosted by a host country (shown on a map).
 
-  b.	Top 5 countries win the world cup.  
+  b.	The Top 5 countries winning the world cup.  
 
-  c.	Number of teams participated in each championship.
+  c.	The Number of teams participated in each championship.
 
 
 
