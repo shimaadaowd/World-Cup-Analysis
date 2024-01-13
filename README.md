@@ -5,7 +5,7 @@
 
 # Objective:
 
-The main objective of this project is to analyze the World cup data after extracting it from the following link:<br>
+The main objective of this project is to analyze the World cup data in Microsoft Power BI after extracting it from the following link:<br>
 https://en.wikipedia.org/wiki/FIFA_World_Cup
 
 
@@ -25,6 +25,11 @@ The data was properly cleaned and loaded as the following fields:
        f.	Number of teams
 
 
+# Dashboard Creation:
+
+After doing the analysis, an interactive dashboard was created using Microsoft Power BI with active filters accross the years.
+
+
 # Insights:
 
 We were able to determine the following:
@@ -34,6 +39,8 @@ We were able to determine the following:
   b.	The Top 5 countries winning the world cup.  
 
   c.	The Number of teams participated in each championship.
+
+
 
 
 
